@@ -1,5 +1,5 @@
 console.log('     TASK 1.1');
-
+//task1 
 class Person {
   constructor(firstName, lastName, gender, maritalStatus) {
     this.firstName = firstName;
